@@ -1,4 +1,4 @@
-# TF-lite-Real-Time-Image-Classification-CatVSNon-cat-
+# Classification-CatVSNon-cat app-
 
 TF Lite real time app on Android for Image Classification CatVsNon-cat.
 
