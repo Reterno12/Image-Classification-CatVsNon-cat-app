@@ -12,7 +12,8 @@ The original datasets from which I made my own:
 1) https://storage.googleapis.com/openimages/web/index.html
 2) https://www.kaggle.com/c/dogs-vs-cats
 3) https://cocodataset.org/
-4) https://www.kaggle.com/huanghanchina/pascal-voc-2012?
+4) https://www.kaggle.com/huanghanchina/pascal-voc-2012
+
 Properties:
 1) There are photos of cats from different angles, from different distances, as well as with other animals
 2) Close-up photos of cats prevail, since dogs Vs cats are the most voluminous
